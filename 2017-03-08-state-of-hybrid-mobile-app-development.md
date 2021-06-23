@@ -3,6 +3,7 @@ title: "Hybrid Mobile App development (2017)"
 description: "Because I test all the technologies I can, as part of my job — and passion, people often ask me my thoughts on hybrid versus native mobile development. Let's see..."
 image: /images/writing/state-mobile-cover.jpg
 categories: blog
+comments: https://github.com/jrmgx/public/issues/1
 tags: [dev]
 ---
 
